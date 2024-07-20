@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import training.taylor.timetracker.core.dao.TimeEntry;
 
 import java.util.ArrayList;
-import java.util.List;
+//import java.util.List;
 
 /**
  * Created by Jason on 6/19/2015.
